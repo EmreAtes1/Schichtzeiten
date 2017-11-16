@@ -14,23 +14,6 @@ import java.util.Set;
 
 public class PausenzeitenMain 
 {
-
-/*String SchichtZeiten;
-String PausenZeiten;
-
-PausenzeitenMain (String pSchichtZeit, String pPausenZeit )
-{
-	SchichtZeiten = pSchichtZeit;
-	PausenZeiten  = pPausenZeit; 
-	
-}*/
-
-
-
-	
-
-
-
 	public static void main(String[] args)
 
 	{
